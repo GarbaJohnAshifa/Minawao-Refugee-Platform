@@ -15,6 +15,7 @@ The Refugee Platform aims to:
 - Report and Address Issues : Provide a safe space for refugees to report maltreatment and corruption anonymously.
 - Educate on Rights : Empower refugees by educating them about their rights.
 - Aggregate Opportunities : Centralize information on funding, scholarships, jobs, and other opportunities.
+- - Notify refugees about distributions, what they should expect to collect, and other similar information. They receive notifications and updates about ......after subscribing.
 - Provide Resources : Offer educational resources, legal advice, and support services.
 - Facilitate Communication : Create clear channels for complaints and assistance requests.
 
