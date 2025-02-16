@@ -22,6 +22,7 @@ Features
 - Anonymous Reporting : Secure and anonymous reporting system.
 - Multilingual Support : Support for multiple languages.
 - Educational Resources : Information on rights, health, education, and more.
+- - Notify refugees about distributions, what they should expect to collect, and other similar information. They receive notifications and updates about ......after subscribing.
 - Opportunity Listings : Aggregated listings of scholarships, jobs, and other opportunities.
 - Community Support : Forums and chat features for peer support.
 - Chatbot Support : AI-powered chatbot for instant assistance.
